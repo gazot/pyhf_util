@@ -1,4 +1,3 @@
-# pyhf_llh
+# pyhf_utils
 
-A wrapper for `pyhf` likelihoods that supports `jax` jit compilation.
-
+Utils for plots, benchmarks etc. 
