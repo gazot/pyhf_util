@@ -1,3 +1,5 @@
-build
-pyhf_util.egg-info
-__pychache__
+build/
+*.egg-info/
+__pycache__/
+
+test.py

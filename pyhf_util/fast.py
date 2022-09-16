@@ -8,8 +8,7 @@ from priorhf import make_prior
 
 from .utils import array_from_jl_samples
 from .bench import benchmark
-from juliacall import Main as jl
-
+from batty import jl 
 
 
 def setup(file: str, quiet: bool, use_jax=True):
